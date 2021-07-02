@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipo_inmueble_descripcion">
+        <item>Tipo de Inmueble</item>
+        <item>Casa</item>
+        <item>Departamento</item>
+        <item>Terreno</item>
+    </string-array>
+    <string-array name="tipo_inmueble_codigo">
+        <item>0</item>
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+    </string-array>
+
+</resources>

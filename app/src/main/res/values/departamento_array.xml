@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="departamento_descripcion">
+        <item>Departamento</item>
+        <item>Lima</item>
+    </string-array>
+    <string-array name="departamento_codigo">
+        <item>0</item>
+        <item>000001</item>
+    </string-array>
+
+</resources>

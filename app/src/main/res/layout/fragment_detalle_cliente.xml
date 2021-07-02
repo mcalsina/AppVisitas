@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context=".DetalleClienteFragment">
+
+    <EditText
+        android:id="@+id/numeroDocumento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Número de Documento"
+        android:layout_marginTop="50dp"/>
+
+    <EditText
+        android:id="@+id/nombres"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nombres"
+        android:layout_marginTop="50dp"
+        android:layout_below="@id/numeroDocumento"/>
+
+    <EditText
+        android:id="@+id/apellidoPaterno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Apellido Paterno"
+        android:layout_marginTop="50dp"
+        android:layout_below="@id/nombres"/>
+
+    <EditText
+        android:id="@+id/apellidoMaterno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Apellido Materno"
+        android:layout_marginTop="50dp"
+        android:layout_below="@id/apellidoPaterno"/>
+
+    <EditText
+        android:id="@+id/telefono"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:hint="Número de telefono"
+        android:layout_marginTop="50dp"
+        android:layout_below="@id/apellidoMaterno"/>
+
+    <EditText
+        android:id="@+id/comentarios"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Comentarios"
+        android:layout_marginTop="50dp"
+        android:layout_below="@id/telefono"/>
+
+    <Button
+        android:id="@+id/guardar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Guardar"
+        android:layout_marginTop="50dp"
+        android:layout_below="@+id/comentarios"/>
+
+
+
+</RelativeLayout>

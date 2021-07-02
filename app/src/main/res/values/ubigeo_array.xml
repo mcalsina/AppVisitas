@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ubigeo_descripcion_array">
+        <item>Lima - Lima - Lima</item>
+        <item>Ancon - Lima - Lima</item>
+        <item>Ate - Lima - Lima</item>
+        <item>Barranco - Lima - Lima</item>
+        <item>Breña - Lima - Lima</item>
+        <item>Carabayllo - Lima - Lima</item>
+        <item>Chaclacayo - Lima - Lima</item>
+        <item>Chorrillos - Lima - Lima</item>
+        <item>Cieneguilla - Lima - Lima</item>
+        <item>Comas - Lima - Lima</item>
+        <item>El Agustino - Lima - Lima</item>
+        <item>Independencia - Lima - Lima</item>
+        <item>Jesus Maria - Lima - Lima</item>
+        <item>La Molina - Lima - Lima</item>
+        <item>La Victoria - Lima - Lima</item>
+        <item>Lince - Lima - Lima</item>
+        <item>Los Olivos - Lima - Lima</item>
+        <item>Lurigancho - Lima - Lima</item>
+        <item>Lurin - Lima - Lima</item>
+        <item>Magdalena del Mar - Lima - Lima</item>
+        <item>Pueblo Libre - Lima - Lima</item>
+        <item>Miraflores - Lima - Lima</item>
+        <item>Pachacamac - Lima - Lima</item>
+        <item>Pucusana - Lima - Lima</item>
+        <item>Puente Piedra - Lima - Lima</item>
+        <item>Punta Hermosa - Lima - Lima</item>
+        <item>Punta Negra - Lima - Lima</item>
+        <item>Rimac - Lima - Lima</item>
+        <item>San Bartolo - Lima - Lima</item>
+        <item>San Borja - Lima - Lima</item>
+        <item>San Isidro - Lima - Lima</item>
+        <item>San Juan de Lurigancho - Lima - Lima</item>
+        <item>San Juan de Miraflores - Lima - Lima</item>
+        <item>San Luis - Lima - Lima</item>
+        <item>San Martin de Porres - Lima - Lima</item>
+        <item>San Miguel - Lima - Lima</item>
+        <item>Santa Anita - Lima - Lima</item>
+        <item>Santa Maria del Mar - Lima - Lima</item>
+        <item>Santa Rosa - Lima - Lima</item>
+        <item>Santiago de Surco - Lima - Lima</item>
+        <item>Surquillo - Lima - Lima</item>
+        <item>Villa El Salvador - Lima - Lima</item>
+        <item>Villa Maria del Triunfo - Lima - Lima</item>
+        <item>Barranca - Barranca - Lima</item>
+        <item>Paramonga - Barranca - Lima</item>
+        <item>Pativilca - Barranca - Lima</item>
+        <item>Supe - Barranca - Lima</item>
+        <item>Supe Puerto - Barranca - Lima</item>
+        <item>Cajatambo - Cajatambo - Lima</item>
+        <item>Copa - Cajatambo - Lima</item>
+        <item>Gorgor - Cajatambo - Lima</item>
+        <item>Huancapon - Cajatambo - Lima</item>
+        <item>Manas - Cajatambo - Lima</item>
+        <item>Canta - Canta - Lima</item>
+        <item>Arahuay - Canta - Lima</item>
+        <item>Huamantanga - Canta - Lima</item>
+        <item>Huaros - Canta - Lima</item>
+        <item>Lachaqui - Canta - Lima</item>
+        <item>San Buenaventura - Canta - Lima</item>
+        <item>Santa Rosa de Quives - Canta - Lima</item>
+        <item>San Vicente de Cañete - Cañete - Lima</item>
+        <item>Asia - Cañete - Lima</item>
+        <item>Calango - Cañete - Lima</item>
+        <item>Cerro Azul - Cañete - Lima</item>
+        <item>Chilca - Cañete - Lima</item>
+        <item>Coayllo - Cañete - Lima</item>
+        <item>Imperial - Cañete - Lima</item>
+        <item>Lunahuana - Cañete - Lima</item>
+        <item>Mala - Cañete - Lima</item>
+        <item>Nuevo Imperial - Cañete - Lima</item>
+        <item>Pacaran - Cañete - Lima</item>
+        <item>Quilmana - Cañete - Lima</item>
+        <item>San Antonio - Cañete - Lima</item>
+        <item>San Luis - Cañete - Lima</item>
+        <item>Santa Cruz de Flores - Cañete - Lima</item>
+        <item>Zuñiga - Cañete - Lima</item>
+        <item>Huaral - Huaral - Lima</item>
+        <item>Atavillos Alto - Huaral - Lima</item>
+        <item>Atavillos Bajo - Huaral - Lima</item>
+        <item>Aucallama - Huaral - Lima</item>
+        <item>Chancay - Huaral - Lima</item>
+        <item>Ihuari - Huaral - Lima</item>
+        <item>Lampian - Huaral - Lima</item>
+        <item>Pacaraos - Huaral - Lima</item>
+        <item>San Miguel de Acos - Huaral - Lima</item>
+        <item>Santa Cruz de Andamarca - Huaral - Lima</item>
+        <item>Sumbilca - Huaral - Lima</item>
+        <item>Veintisiete de Noviembre - Huaral - Lima</item>
+        <item>Matucana - Huarochiri - Lima</item>
+        <item>Antioquia - Huarochiri - Lima</item>
+        <item>Callahuanca - Huarochiri - Lima</item>
+        <item>Carampoma - Huarochiri - Lima</item>
+        <item>Chicla - Huarochiri - Lima</item>
+        <item>Cuenca - Huarochiri - Lima</item>
+        <item>Huachupampa - Huarochiri - Lima</item>
+        <item>Huanza - Huarochiri - Lima</item>
+        <item>Huarochiri - Huarochiri - Lima</item>
+        <item>Lahuaytambo - Huarochiri - Lima</item>
+        <item>Langa - Huarochiri - Lima</item>
+        <item>Laraos - Huarochiri - Lima</item>
+        <item>Mariatana - Huarochiri - Lima</item>
+        <item>Ricardo Palma - Huarochiri - Lima</item>
+        <item>San Andres de Tupicocha - Huarochiri - Lima</item>
+        <item>San Antonio - Huarochiri - Lima</item>
+        <item>San Bartolome - Huarochiri - Lima</item>
+        <item>San Damian - Huarochiri - Lima</item>
+        <item>San Juan de Iris - Huarochiri - Lima</item>
+        <item>San Juan de Tantaranche - Huarochiri - Lima</item>
+        <item>San Lorenzo de Quinti - Huarochiri - Lima</item>
+        <item>San Mateo - Huarochiri - Lima</item>
+        <item>San Mateo de Otao - Huarochiri - Lima</item>
+        <item>San Pedro de Casta - Huarochiri - Lima</item>
+        <item>San Pedro de Huancayre - Huarochiri - Lima</item>
+        <item>Sangallaya - Huarochiri - Lima</item>
+        <item>Santa Cruz de Cocachacra - Huarochiri - Lima</item>
+        <item>Santa Eulalia - Huarochiri - Lima</item>
+        <item>Santiago de Anchucaya - Huarochiri - Lima</item>
+        <item>Santiago de Tuna - Huarochiri - Lima</item>
+        <item>Santo Domingo de los Olleros - Huarochiri - Lima</item>
+        <item>Surco - Huarochiri - Lima</item>
+        <item>Huacho - Huaura - Lima</item>
+        <item>Ambar - Huaura - Lima</item>
+        <item>Caleta de Carquin - Huaura - Lima</item>
+        <item>Checras - Huaura - Lima</item>
+        <item>Hualmay - Huaura - Lima</item>
+        <item>Huaura - Huaura - Lima</item>
+        <item>Leoncio Prado - Huaura - Lima</item>
+        <item>Paccho - Huaura - Lima</item>
+        <item>Santa Leonor - Huaura - Lima</item>
+        <item>Santa Maria - Huaura - Lima</item>
+        <item>Sayan - Huaura - Lima</item>
+        <item>Vegueta - Huaura - Lima</item>
+        <item>Oyon - Oyon - Lima</item>
+        <item>Andajes - Oyon - Lima</item>
+        <item>Caujul - Oyon - Lima</item>
+        <item>Cochamarca - Oyon - Lima</item>
+        <item>Navan - Oyon - Lima</item>
+        <item>Pachangara - Oyon - Lima</item>
+        <item>Yauyos - Yauyos - Lima</item>
+        <item>Alis - Yauyos - Lima</item>
+        <item>Ayauca - Yauyos - Lima</item>
+        <item>Ayaviri - Yauyos - Lima</item>
+        <item>Azangaro - Yauyos - Lima</item>
+        <item>Cacra - Yauyos - Lima</item>
+        <item>Carania - Yauyos - Lima</item>
+        <item>Catahuasi - Yauyos - Lima</item>
+        <item>Chocos - Yauyos - Lima</item>
+        <item>Cochas - Yauyos - Lima</item>
+        <item>Colonia - Yauyos - Lima</item>
+        <item>Hongos - Yauyos - Lima</item>
+        <item>Huampara - Yauyos - Lima</item>
+        <item>Huancaya - Yauyos - Lima</item>
+        <item>Huangascar - Yauyos - Lima</item>
+        <item>Huantan - Yauyos - Lima</item>
+        <item>Huañec - Yauyos - Lima</item>
+        <item>Laraos - Yauyos - Lima</item>
+        <item>Lincha - Yauyos - Lima</item>
+        <item>Madean - Yauyos - Lima</item>
+        <item>Miraflores - Yauyos - Lima</item>
+        <item>Omas - Yauyos - Lima</item>
+        <item>Putinza - Yauyos - Lima</item>
+        <item>Quinches - Yauyos - Lima</item>
+        <item>Quinocay - Yauyos - Lima</item>
+        <item>San Joaquin - Yauyos - Lima</item>
+        <item>San Pedro de Pilas - Yauyos - Lima</item>
+        <item>Tanta - Yauyos - Lima</item>
+        <item>Tauripampa - Yauyos - Lima</item>
+        <item>Tomas - Yauyos - Lima</item>
+        <item>Tupe - Yauyos - Lima</item>
+        <item>Viñac - Yauyos - Lima</item>
+        <item>Vitis - Yauyos - Lima</item>
+        <item>Callao - Callao - Callao</item>
+        <item>Bellavista - Callao - Callao</item>
+        <item>Carmen de la Legua Reynoso - Callao - Callao</item>
+        <item>La Perla - Callao - Callao</item>
+        <item>La Punta - Callao - Callao</item>
+        <item>Ventanilla - Callao - Callao</item>
+        <item>Mi Perú - Callao - Callao</item>
+    </string-array>
+
+    <string-array name="ubigeo_codigo_array">
+        <item>150101</item>
+        <item>150102</item>
+        <item>150103</item>
+        <item>150104</item>
+        <item>150105</item>
+        <item>150106</item>
+        <item>150107</item>
+        <item>150108</item>
+        <item>150109</item>
+        <item>150110</item>
+        <item>150111</item>
+        <item>150112</item>
+        <item>150113</item>
+        <item>150114</item>
+        <item>150115</item>
+        <item>150116</item>
+        <item>150117</item>
+        <item>150118</item>
+        <item>150119</item>
+        <item>150120</item>
+        <item>150121</item>
+        <item>150122</item>
+        <item>150123</item>
+        <item>150124</item>
+        <item>150125</item>
+        <item>150126</item>
+        <item>150127</item>
+        <item>150128</item>
+        <item>150129</item>
+        <item>150130</item>
+        <item>150131</item>
+        <item>150132</item>
+        <item>150133</item>
+        <item>150134</item>
+        <item>150135</item>
+        <item>150136</item>
+        <item>150137</item>
+        <item>150138</item>
+        <item>150139</item>
+        <item>150140</item>
+        <item>150141</item>
+        <item>150142</item>
+        <item>150143</item>
+        <item>150201</item>
+        <item>150202</item>
+        <item>150203</item>
+        <item>150204</item>
+        <item>150205</item>
+        <item>150301</item>
+        <item>150302</item>
+        <item>150303</item>
+        <item>150304</item>
+        <item>150305</item>
+        <item>150401</item>
+        <item>150402</item>
+        <item>150403</item>
+        <item>150404</item>
+        <item>150405</item>
+        <item>150406</item>
+        <item>150407</item>
+        <item>150501</item>
+        <item>150502</item>
+        <item>150503</item>
+        <item>150504</item>
+        <item>150505</item>
+        <item>150506</item>
+        <item>150507</item>
+        <item>150508</item>
+        <item>150509</item>
+        <item>150510</item>
+        <item>150511</item>
+        <item>150512</item>
+        <item>150513</item>
+        <item>150514</item>
+        <item>150515</item>
+        <item>150516</item>
+        <item>150601</item>
+        <item>150602</item>
+        <item>150603</item>
+        <item>150604</item>
+        <item>150605</item>
+        <item>150606</item>
+        <item>150607</item>
+        <item>150608</item>
+        <item>150609</item>
+        <item>150610</item>
+        <item>150611</item>
+        <item>150612</item>
+        <item>150701</item>
+        <item>150702</item>
+        <item>150703</item>
+        <item>150704</item>
+        <item>150705</item>
+        <item>150706</item>
+        <item>150707</item>
+        <item>150708</item>
+        <item>150709</item>
+        <item>150710</item>
+        <item>150711</item>
+        <item>150712</item>
+        <item>150713</item>
+        <item>150714</item>
+        <item>150715</item>
+        <item>150716</item>
+        <item>150717</item>
+        <item>150718</item>
+        <item>150719</item>
+        <item>150720</item>
+        <item>150721</item>
+        <item>150722</item>
+        <item>150723</item>
+        <item>150724</item>
+        <item>150725</item>
+        <item>150726</item>
+        <item>150727</item>
+        <item>150728</item>
+        <item>150729</item>
+        <item>150730</item>
+        <item>150731</item>
+        <item>150732</item>
+        <item>150801</item>
+        <item>150802</item>
+        <item>150803</item>
+        <item>150804</item>
+        <item>150805</item>
+        <item>150806</item>
+        <item>150807</item>
+        <item>150808</item>
+        <item>150809</item>
+        <item>150810</item>
+        <item>150811</item>
+        <item>150812</item>
+        <item>150901</item>
+        <item>150902</item>
+        <item>150903</item>
+        <item>150904</item>
+        <item>150905</item>
+        <item>150906</item>
+        <item>151001</item>
+        <item>151002</item>
+        <item>151003</item>
+        <item>151004</item>
+        <item>151005</item>
+        <item>151006</item>
+        <item>151007</item>
+        <item>151008</item>
+        <item>151009</item>
+        <item>151010</item>
+        <item>151011</item>
+        <item>151012</item>
+        <item>151013</item>
+        <item>151014</item>
+        <item>151015</item>
+        <item>151016</item>
+        <item>151017</item>
+        <item>151018</item>
+        <item>151019</item>
+        <item>151020</item>
+        <item>151021</item>
+        <item>151022</item>
+        <item>151023</item>
+        <item>151024</item>
+        <item>151025</item>
+        <item>151026</item>
+        <item>151027</item>
+        <item>151028</item>
+        <item>151029</item>
+        <item>151030</item>
+        <item>151031</item>
+        <item>151032</item>
+        <item>151033</item>
+        <item>070101</item>
+        <item>070102</item>
+        <item>070103</item>
+        <item>070104</item>
+        <item>070105</item>
+        <item>070106</item>
+        <item>070107</item>
+    </string-array>
+
+</resources>

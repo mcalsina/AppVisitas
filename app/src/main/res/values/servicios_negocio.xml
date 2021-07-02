@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="servicios_negocio_descripcion">
+        <item>Servicios del Negocio</item>
+        <item>Luz</item>
+        <item>Agua</item>
+        <item>Desague</item>
+        <item>Teléfono</item>
+        <item>Cable</item>
+        <item>Internet</item>
+        <item>Otros</item>
+    </string-array>
+    <string-array name="servicios_negocio_codigo">
+        <item>0</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+        <item>100</item>
+    </string-array>
+</resources>

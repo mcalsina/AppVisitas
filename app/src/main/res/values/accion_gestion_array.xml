@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="accion_gestion">
+        <item>Seleccione Acción</item>
+        <item>Dialogo telefónico</item>
+        <item>Teléfono no le corresponde</item>
+    </string-array>
+    <string-array name="accion_gestion_values">
+        <item>0</item>
+        <item>3</item>
+        <item>5</item>
+    </string-array>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipo_resultado">
+        <item>Seleccione Resultado</item>
+        <item>Cliente lo evaluará</item>
+        <!--<item>Se insistirá</item>-->
+        <item>Se volverá  visitar</item>
+        <item>Cliente aceptó invitación</item>
+        <item>Cliente rechazó invitación</item>
+        <item>Cliente no cumple condiciones</item>
+        <item>Cliente sin negocios</item>
+        <item>Cliente rechaza oferta por monto</item>
+        <item>Cliente rechaza oferta por tasa de interés</item>
+        <item>Cliente rechaza oferta por no tener plan de inversión</item>
+        <item>Cliente rechaza oferta por disminuir su deudas</item>
+        <item>Cliente con referencias personales negativas</item>
+        <item>Cliente con referencias financieras negativas</item>
+        <item>Cliente con referencias comerciales negativas</item>
+        <item>Cliente constituido en persona jurídica</item>
+        <item>Cliente fallecido</item>
+    </string-array>
+    <string-array name="tipo_resultado_values">
+        <item>0</item>
+        <item>1</item>
+        <!--<item>2</item>-->
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+</resources>

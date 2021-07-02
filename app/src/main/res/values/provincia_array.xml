@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="provincia_lima_descripcion">
+        <item>Provincia</item>
+        <item>Lima</item>
+        <item>Barranca</item>
+        <item>Cajatambo</item>
+        <item>Canta</item>
+        <item>Cañete</item>
+        <item>Huaral</item>
+        <item>Huarochirí</item>
+        <item>Huaura</item>
+        <item>Oyon</item>
+        <item>Yuayos</item>
+    </string-array>
+    <string-array name="provincia_lima_codigo">
+        <item>0</item>
+        <item>Lima</item>
+        <item>Barranca</item>
+        <item>Cajatambo</item>
+        <item>Canta</item>
+        <item>Cañete</item>
+        <item>Huaral</item>
+        <item>Huarochirí</item>
+        <item>Huaura</item>
+        <item>Oyon</item>
+        <item>Yuayos</item>
+    </string-array>
+
+</resources>
